@@ -1,0 +1,8 @@
+Creating 5 different files and removing 2 and modifying 2 
+
+
+
+adding 2nd file 
+
+
+which should be 1kb of mim
